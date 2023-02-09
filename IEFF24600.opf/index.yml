@@ -1,0 +1,47 @@
+id: e63d00e6b419457c93466c0cd3f23952
+annotation_type: index
+revision: '00001'
+annotations:
+  632bb6d4c3754bab892e14b9cf81d97a:
+    base: 45E7.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 41
+    - title: Homage
+      span:
+        start: 42
+        end: 110
+    - title: Short §1
+      span:
+        start: 111
+        end: 351
+    - title: Short §2
+      span:
+        start: 352
+        end: 587
+    - title: Short §3
+      span:
+        start: 588
+        end: 664
+    - title: Short §4
+      span:
+        start: 665
+        end: 1217
+    - title: Short §5
+      span:
+        start: 1218
+        end: 1498
+    - title: Short §6
+      span:
+        start: 1499
+        end: 2031
+    - title: Short §7
+      span:
+        start: 2032
+        end: 2440
+    - title: Colophon
+      span:
+        start: 2441
+        end: 2451
